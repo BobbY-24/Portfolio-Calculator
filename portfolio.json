@@ -1,0 +1,17 @@
+[
+  {
+    "stock_code": "AAPL",
+    "shares": 20,
+    "purchase_date": "2024-08-08"
+  },
+  {
+    "stock_code": "AMZN",
+    "shares": 10,
+    "purchase_date": "2024-08-08"
+  },
+  {
+    "stock_code": "NVDA",
+    "shares": 10,
+    "purchase_date": "2024-08-08"
+  }
+]
